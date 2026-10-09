@@ -5,5 +5,17 @@
         <link>https://github.com/aloaiza-dev/reader-md-releases</link>
         <description>Reader.md update feed</description>
         <language>en</language>
+        <item>
+            <title>1.6</title>
+            <pubDate>Fri, 09 Oct 2026 15:39:30 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/aloaiza-dev/reader-md-releases/releases/download/v1.6/ReaderMD-1.6.zip"
+                       length="1385091"
+                       type="application/octet-stream"
+                       sparkle:edSignature="hDtAmV/9tIMsl/R7ohCOVXXZhNVFG1lkXAe3emNwcnTUqep8nMnXdvP0LpcPjRn31/h2sY++J1PKqFfCTENQDg=="/>
+        </item>
     </channel>
 </rss>
